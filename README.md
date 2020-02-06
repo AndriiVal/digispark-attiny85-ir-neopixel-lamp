@@ -41,16 +41,16 @@ You need to define remote control keys in part "Settings".
 You can to get the keycodes of the remote here: https://www.instructables.com/id/DIY-USB-IR-receiver/ .
 In part "Settings" define the number of LEDs in one piece of strip (#define NUM_LEDS 8).
 
-![code1](./images/code1.jpg)
+![code1](./images/code1.png)
 
 Also you can to change time between effects mode (#define AUTOPLAY_TIME 30).
 
-![code2](./images/code2.jpg)
+![code2](./images/code2.png)
 
 Working Explanation:
 --------------------
 
-![video1](./images/video1.jpg)
+![video1](./images/video1.gif)
 
 Turn On power supply , wait ~5sec and enjoy your lamp with remote control.
 Remote control keys: 
@@ -60,6 +60,6 @@ Remote control keys:
  * '*' On/Off white mode (accompanied by blue)
  * '#' On/Off mode auto change effects (accompanied by red if On and green if Off) 
 
-![video2](./images/video2.jpg)
+![video2](./images/video2.gif)
 
-![video3](./images/video3.jpg)
+![video3](./images/video3.gif)
