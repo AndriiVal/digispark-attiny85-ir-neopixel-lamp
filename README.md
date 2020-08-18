@@ -47,7 +47,7 @@ Also you can to change time between effects mode (#define AUTOPLAY_TIME 30).
 
 ![code2](./images/code2.png)
 
-Working Explanation:
+Usage:
 --------------------
 
 ![video1](./images/video1.gif)
@@ -63,3 +63,7 @@ Remote control keys:
 ![video2](./images/video2.gif)
 
 ![video3](./images/video3.gif)
+
+License
+-----------------
+GNU GPL 3
