@@ -21,7 +21,7 @@ Required Components:
 
 ![lamp2](./images/lamp2.jpg)
 
-Circuit Explanation:
+Circuit:
 --------------------
 
 ![lamp2](./images/schemelamp.png)
